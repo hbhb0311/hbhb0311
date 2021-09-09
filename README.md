@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![Hyebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhb0311)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhb0311&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
