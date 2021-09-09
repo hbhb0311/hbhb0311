@@ -6,11 +6,11 @@
 </p>
   
 
-<a align="center">
+<div align="center">
   
 [![Hyebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhb0311&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-</a>
+</div>
 
 <a href="mailto:gpqls9712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
