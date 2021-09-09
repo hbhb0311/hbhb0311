@@ -14,10 +14,8 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
   
-
-<div align="center">
+  
 [![Hyebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhb0311&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <br>
   
