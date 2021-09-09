@@ -1,15 +1,16 @@
-<h3 align="center">Tech Stack👌</h3>
+
+
+<h3 align="center">Interested in😎</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
   
 
-
-
-
-
-
+<a align="center">
+  
 [![Hyebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhb0311&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+</a>
 
 <a href="mailto:gpqls9712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
