@@ -3,6 +3,9 @@
 <a href="mailto:gpqls9712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
+<br>
+<br>
+
 <h4 align="center">Interested in😎</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
